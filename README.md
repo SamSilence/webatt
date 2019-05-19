@@ -2,7 +2,7 @@
 #Web Attacker tarter pack
 
 Instalasi:
-$sh install.sh
+$bash install.sh
 
 #keluar dr termux dan buka kembali
 
